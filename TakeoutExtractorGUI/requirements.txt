@@ -1,0 +1,5 @@
+# No third-party libraries currently required.
+# Add packages here (one per line) and they will be auto-installed on first run.
+# Example:
+#   Pillow>=10.0.0
+#   requests>=2.31.0

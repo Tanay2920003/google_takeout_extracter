@@ -1,4 +1,4 @@
-# 🍒 Takeout Extractor
+# 🍒 Google Takeout Extractor
 
 > A beautiful, cherry-red desktop app to merge and extract all your **Google Takeout ZIP files** into one folder — with a single click.
 

@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-darkred?style=flat-square)
 
 ---
+<img width="1216" height="846" alt="image" src="https://github.com/user-attachments/assets/bafb28d4-1f75-4572-b636-5e6e50422779" />
 
 ## ✨ Features
 
